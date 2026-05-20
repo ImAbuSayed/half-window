@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/half-window/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Half Window](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/half-window/) |
+| **Get License** | [Official Music Licensing for Half Window](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/half-window/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaaliyan raatan de hanere ch burning so bright
+> Tere piche main aawan labhda walking the night
+> Naina di thandi agg vich catching the flame
+> Sohniye ni meri gall sun calling your name
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
